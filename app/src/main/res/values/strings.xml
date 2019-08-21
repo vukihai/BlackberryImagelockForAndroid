@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BlackberryImageLock</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="touch_a_number">Chọn 1 số</string>
+    <string name="drag_number_to_position">kéo số đó đến 1 vị trí trên ảnh</string>
+    <string name="image_lock_done">hoàn thành!</string>
+    <string name="btn_next_text">tiếp theo</string>
+    <string name="btn_previous_text">quay lại</string>
+    <string name="title_confirm_image_lock">xác nhận</string>
+    <string name="title_image_chooser">chọn hình ảnh</string>
+    <string name="title_image_lock_chooser">đặt mật khẩu</string>
+    <string name="drag_number_to_selected_pos">kéo số đến vị trí đã chọn</string>
+    <string name="unlock_success">mở khóa thành công</string>
+    <string name="unlock_failed">mở khóa thất bại</string>
+</resources>
